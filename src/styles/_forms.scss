@@ -1,6 +1,11 @@
 .bwm-form {
   form {
     margin-bottom: 10px;
+
+    .form-control#shared{
+      width: auto;
+      height:  auto;
+    }
   }
 
   .alert {

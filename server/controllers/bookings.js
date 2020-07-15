@@ -15,7 +15,7 @@ exports.getBookings = async (req, res) => {
   }
 }
 
-'/api/v1/bookings/received'
+// '/api/v1/bookings/received'
 exports.getReceivedBookings = async (req, res) => {
   const { user } = res.locals;
 
